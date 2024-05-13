@@ -303,7 +303,7 @@
               }
             },
             "mappings": [],
-            "max": 405,
+            "max": 325,
             "unit": "watt"
           },
           "overrides": []
