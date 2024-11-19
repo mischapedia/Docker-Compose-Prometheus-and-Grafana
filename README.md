@@ -6,9 +6,7 @@ WARNING: This repo is outdated. I will no longer maintain it.
 A monitoring solution for Docker hosts and containers with [Prometheus](https://prometheus.io/), [Grafana](http://grafana.org/), [cAdvisor](https://github.com/google/cadvisor),
 [NodeExporter](https://github.com/prometheus/node_exporter) and alerting with [AlertManager](https://github.com/prometheus/alertmanager).  
 
-This is a forked repository. So, you may want to visit the original repo at [stefanprodan
-/
-dockprom](https://github.com/stefanprodan/dockprom)
+This is a forked repository. So, you may want to visit the original repo at [Einsteinish/Docker-Compose-Prometheus-and-Grafana](https://github.com/Einsteinish/Docker-Compose-Prometheus-and-Grafana)
 
 Additional info: [Docker - Prometheus and Grafana](https://bogotobogo.com/DevOps/Docker/Docker_Prometheus_Grafana.php)
 
